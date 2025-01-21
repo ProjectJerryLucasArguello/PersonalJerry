@@ -1,0 +1,129 @@
+'Log files:
+C:\Websites\personal-website\UsersargjeAppDataLocalnpm-cache\_logs\2025-01-02T04_36_25_761Z-debug-0.log
+
+# npm resolution error report
+
+While resolving: personal-website@0.1.0
+Found: react@19.0.0
+node_modules/react
+  react@"^19.0.0" from the root project
+  peer react@">=18.0" from @react-three/fiber@8.17.10
+  node_modules/@react-three/fiber
+    @react-three/fiber@"8.17.10" from the root project
+    peer @react-three/fiber@"^8 || ^9.0.0-0" from @react-three/drei@9.120.5
+    node_modules/@react-three/drei
+      @react-three/drei@"9.120.5" from the root project
+  peer react@"*" from expo@52.0.23
+  node_modules/expo
+    peerOptional expo@">=43.0" from @react-three/fiber@8.17.10
+    node_modules/@react-three/fiber
+      @react-three/fiber@"8.17.10" from the root project
+      peer @react-three/fiber@"^8 || ^9.0.0-0" from @react-three/drei@9.120.5
+      node_modules/@react-three/drei
+        @react-three/drei@"9.120.5" from the root project
+    peer expo@"*" from @expo/dom-webview@0.0.1
+    node_modules/@expo/dom-webview
+      peerOptional @expo/dom-webview@"*" from expo@52.0.23
+    peer expo@"*" from expo-asset@11.0.1
+    node_modules/expo-asset
+      peerOptional expo-asset@">=8.4" from @react-three/fiber@8.17.10
+      node_modules/@react-three/fiber
+        @react-three/fiber@"8.17.10" from the root project
+        peer @react-three/fiber@"^8 || ^9.0.0-0" from @react-three/drei@9.120.5
+        node_modules/@react-three/drei
+          @react-three/drei@"9.120.5" from the root project
+      expo-asset@"~11.0.1" from expo@52.0.23
+    peer expo@"*" from expo-file-system@18.0.6
+    node_modules/expo-file-system
+      peerOptional expo-file-system@">=11.0" from @react-three/fiber@8.17.10
+      node_modules/@react-three/fiber
+        @react-three/fiber@"8.17.10" from the root project
+        peer @react-three/fiber@"^8 || ^9.0.0-0" from @react-three/drei@9.120.5
+        node_modules/@react-three/drei
+          @react-three/drei@"9.120.5" from the root project
+      expo-file-system@"~18.0.6" from expo@52.0.23
+    peer expo@"*" from expo-gl@15.0.2
+    node_modules/expo-gl
+      peerOptional expo-gl@">=11.0" from @react-three/fiber@8.17.10
+      node_modules/@react-three/fiber
+        @react-three/fiber@"8.17.10" from the root project
+        peer @react-three/fiber@"^8 || ^9.0.0-0" from @react-three/drei@9.120.5
+        node_modules/@react-three/drei
+          @react-three/drei@"9.120.5" from the root project
+  peer react@"*" from @expo/dom-webview@0.0.1
+  node_modules/@expo/dom-webview
+    peerOptional @expo/dom-webview@"*" from expo@52.0.23
+  peer react@"*" from react-native-webview@13.12.5
+  node_modules/react-native-webview
+    peerOptional react-native-webview@"*" from expo@52.0.23
+    node_modules/expo
+      peerOptional expo@">=43.0" from @react-three/fiber@8.17.10
+      node_modules/@react-three/fiber
+        @react-three/fiber@"8.17.10" from the root project
+        peer @react-three/fiber@"^8 || ^9.0.0-0" from @react-three/drei@9.120.5
+        node_modules/@react-three/drei
+          @react-three/drei@"9.120.5" from the root project
+      peer expo@"*" from @expo/dom-webview@0.0.1
+      node_modules/@expo/dom-webview
+        peerOptional @expo/dom-webview@"*" from expo@52.0.23
+      peer expo@"*" from expo-asset@11.0.1
+      node_modules/expo-asset
+        peerOptional expo-asset@">=8.4" from @react-three/fiber@8.17.10
+        node_modules/@react-three/fiber
+          @react-three/fiber@"8.17.10" from the root project
+          peer @react-three/fiber@"^8 || ^9.0.0-0" from @react-three/drei@9.120.5
+          node_modules/@react-three/drei
+            @react-three/drei@"9.120.5" from the root project
+        expo-asset@"~11.0.1" from expo@52.0.23
+      peer expo@"*" from expo-file-system@18.0.6
+      node_modules/expo-file-system
+        peerOptional expo-file-system@">=11.0" from @react-three/fiber@8.17.10
+        node_modules/@react-three/fiber
+          @react-three/fiber@"8.17.10" from the root project
+          peer @react-three/fiber@"^8 || ^9.0.0-0" from @react-three/drei@9.120.5
+          node_modules/@react-three/drei
+            @react-three/drei@"9.120.5" from the root project
+        expo-file-system@"~18.0.6" from expo@52.0.23
+      peer expo@"*" from expo-gl@15.0.2
+      node_modules/expo-gl
+        peerOptional expo-gl@">=11.0" from @react-three/fiber@8.17.10
+        node_modules/@react-three/fiber
+          @react-three/fiber@"8.17.10" from the root project
+          peer @react-three/fiber@"^8 || ^9.0.0-0" from @react-three/drei@9.120.5
+          node_modules/@react-three/drei
+            @react-three/drei@"9.120.5" from the root project
+  peer react@"*" from expo-asset@11.0.1
+  node_modules/expo-asset
+    peerOptional expo-asset@">=8.4" from @react-three/fiber@8.17.10
+    node_modules/@react-three/fiber
+      @react-three/fiber@"8.17.10" from the root project
+      peer @react-three/fiber@"^8 || ^9.0.0-0" from @react-three/drei@9.120.5
+      node_modules/@react-three/drei
+        @react-three/drei@"9.120.5" from the root project
+    expo-asset@"~11.0.1" from expo@52.0.23
+  peer react@"*" from expo-gl@15.0.2
+  node_modules/expo-gl
+    peerOptional expo-gl@">=11.0" from @react-three/fiber@8.17.10
+    node_modules/@react-three/fiber
+      @react-three/fiber@"8.17.10" from the root project
+      peer @react-three/fiber@"^8 || ^9.0.0-0" from @react-three/drei@9.120.5
+      node_modules/@react-three/drei
+        @react-three/drei@"9.120.5" from the root project
+  peer react@"^19.0.0" from react-dom@19.0.0
+  node_modules/react-dom
+    react-dom@"^19.0.0" from the root project
+    peerOptional react-dom@">=18.0" from @react-three/fiber@8.17.10
+    node_modules/@react-three/fiber
+      @react-three/fiber@"8.17.10" from the root project
+      peer @react-three/fiber@"^8 || ^9.0.0-0" from @react-three/drei@9.120.5
+      node_modules/@react-three/drei
+        @react-three/drei@"9.120.5" from the root project
+
+Could not resolve dependency:
+peer react@"^18" from @react-three/drei@9.120.5
+node_modules/@react-three/drei
+  @react-three/drei@"9.120.5" from the root project
+
+Fix the upstream dependency conflict, or retry
+this command with --force or --legacy-peer-deps
+to accept an incorrect (and potentially broken) dependency resolution.
